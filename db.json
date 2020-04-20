@@ -1,0 +1,16 @@
+{
+	"allTrue": [{
+		"id": "Refund",
+		"available": true,
+		"href": "https://www.groupon.com/?action=refund"
+	}, {
+		"id": "TradeIn",
+		"available": true,
+		"href": "https://www.groupon.com/?action=trade-in"
+	}],
+	"oneTrue": [{
+		"id": "TradeIn",
+		"available": true,
+		"href": "https://www.groupon.com/?action=trade-in"
+	}]
+}
