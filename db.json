@@ -3,7 +3,7 @@
 		"id": "Refund",
 		"available": true,
 		"description": "REFUND: you can refund to your bank account / groupon bucks ",
-		"image": "http://via.placeholder.com/100x100?text=Refund"
+		"image": "https://via.placeholder.com/100x100?text=Refund"
 	}, {
 		"id": "TradeIn",
 		"available": true,
@@ -13,6 +13,6 @@
 	"oneTrue": [{
 		"id": "Refund",
 		"available": true,
-		"image": "http://via.placeholder.com/100x100?text=Refund"
+		"image": "https://via.placeholder.com/100x100?text=Refund"
 	}]
 }
