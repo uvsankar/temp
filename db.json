@@ -2,15 +2,17 @@
 	"allTrue": [{
 		"id": "Refund",
 		"available": true,
-		"href": "https://www.groupon.com/?action=refund"
+		"description": "REFUND: you can refund to your bank account / groupon bucks ",
+		"image": "http://via.placeholder.com/100x100?text=Refund"
 	}, {
 		"id": "TradeIn",
 		"available": true,
-		"href": "https://www.groupon.com/?action=trade-in"
+		"description": "TRADEIN: You can optin for tradeIn",
+		"href": "http://via.placeholder.com/100x100?text=TradeIn"
 	}],
 	"oneTrue": [{
-		"id": "TradeIn",
+		"id": "Refund",
 		"available": true,
-		"href": "https://www.groupon.com/?action=trade-in"
+		"image": "http://via.placeholder.com/100x100?text=Refund"
 	}]
 }
