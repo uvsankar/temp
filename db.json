@@ -8,11 +8,12 @@
 		"id": "TradeIn",
 		"available": true,
 		"description": "TRADEIN: You can optin for tradeIn",
-		"href": "http://via.placeholder.com/100x100?text=TradeIn"
+		"image": "https://via.placeholder.com/100x100?text=TradeIn"
 	}],
 	"oneTrue": [{
 		"id": "Refund",
 		"available": true,
+		"description": "REFUND: you can refund to your bank account / groupon bucks ",
 		"image": "https://via.placeholder.com/100x100?text=Refund"
 	}]
 }
